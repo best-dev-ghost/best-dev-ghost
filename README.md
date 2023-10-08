@@ -1,6 +1,6 @@
 # Best Dev Ghost
 
-Highly skilled and versatile Full Stack Engineer with a passion for creating robust and scalable web applications. Proficient in a wide range of front-end and back-end technologies, I bring a holistic approach to software development, enabling me to deliver end-to-end solutions that meet both user and business needs. With expertise in JavaScript, TypeScript, React, Angular, Python, PHP, Node.js, Flask, Express.js, and various databases, I am well-equipped to tackle complex projects and deliver exceptional results.
+Highly skilled and versatile Full Stack Engineer with a passion for creating robust and scalable web applications. Proficient in a wide range of front-end and back-end technologies, I bring a holistic approach to software development, enabling me to deliver end-to-end solutions that meet both user and business needs. With expertise in JavaScript, TypeScript, React, Angular, Python, Flask, PHP, Codeigniter, Laravel, Node.js, Express.js, and various databases, I am well-equipped to tackle complex projects and deliver exceptional results.
 
 ## Frontend
 
@@ -8,7 +8,7 @@ Proficient in JavaScript, TypeScript, React, Angular, HTML, and CSS to create in
 
 ## Backend
 
-Experienced in building robust server-side applications using Python, PHP, Node.js, Flask, and Express.js. Skilled in developing APIs, authentication systems, and handling server-side logic.
+Experienced in building robust server-side applications using Python/Flask, PHP/Codeigniter/Laravel, Node.js, and Express.js. Skilled in developing APIs, authentication systems, and handling server-side logic.
 
 ## Database
 
